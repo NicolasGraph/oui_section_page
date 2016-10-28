@@ -1,0 +1,38 @@
+h1. oui_page
+
+Easily manipulate the Textpattern pages name.
+
+h2. Plugin requirements
+
+oui_instagram’s minimum requirements:
+
+* Textpattern 4.6+
+
+h2. Installation
+
+# "Download":https://github.com/NicolasGraph/oui_page/releases the plugin;
+# Paste the content of the plugin file under the *Admin > Plugins*, upload it and install;
+
+h2. Tag
+
+h3. oui_page
+
+Displays the page name in use for the current section or a defined section.
+
+bc. <txp:oui_page />
+
+h4. Attribute
+
+- @section@ :=
+The section name for which you want to display the page name.
+*Default:* the current section
+*Valid:* a section name=:
+
+h2. Author
+
+"Nicolas Morand":https://twitter.com/NicolasGraph
+_Thank you to the Textpattern community and the core team._
+
+h2. Licence
+
+This plugin is distributed under "GPLv2":http://www.gnu.org/licenses/gpl-2.0.fr.html.
