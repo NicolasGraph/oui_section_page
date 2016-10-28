@@ -1,17 +1,12 @@
 h1. oui_page
 
-Easily manipulate the Textpattern pages name.
+Easily manipulate the Textpattern section page names.
 
 h2. Plugin requirements
 
 oui_instagram’s minimum requirements:
 
 * Textpattern 4.6+
-
-h2. Installation
-
-# "Download":https://github.com/NicolasGraph/oui_page/releases the plugin;
-# Paste the content of the plugin file under the *Admin > Plugins*, upload it and install;
 
 h2. Tag
 
