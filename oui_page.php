@@ -38,7 +38,7 @@ function oui_fetch_section_page($section)
 
 // -------------------------------------------------------------
 
-function oui_page($atts, $thing = null)
+function oui_section_page($atts, $thing = null)
 {
     global $thisarticle, $s, $thissection;
 
