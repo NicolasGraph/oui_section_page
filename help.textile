@@ -1,4 +1,4 @@
-h1. oui_page
+h1. oui_section_page
 
 Easily manipulate the Textpattern section page names.
 
@@ -8,13 +8,45 @@ oui_instagram’s minimum requirements:
 
 * Textpattern 4.6+
 
-h2. Tag
+h2. Tags
 
-h3. oui_page
+h3. oui_section_page
 
 Displays the page name in use for the current section or a defined section.
 
-bc. <txp:oui_page />
+bc. <txp:oui_section_page />
+
+h4. Attributes (a-z)
+
+- @class@ :=
+The css class to apply to the HTML tag assigned to @wraptag@.
+*Default:* none
+*Valid:* string =:
+- @section@ :=
+target a define section.
+*Default:* the current section
+*Valid:* section name =:
+- @wraptag@ :=
+The HTML tag to use around the generated content.
+*Default:* @ul@
+*Valid:* HTML container tag without brakets =:
+
+h3. oui_section_page
+
+Check the page name in use against a define value.
+
+bc. <txp:oui_if_section_page />
+
+h4. Attributes (a-z)
+
+- @name@ :=
+a name to check against the section page name.
+*Default:* none
+*Valid:* string =:
+- @section@ :=
+target a define section.
+*Default:* the current section
+*Valid:* section name =:
 
 h4. Attribute
 

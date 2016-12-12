@@ -1,5 +1,5 @@
 {
-    "name"        : "oui_page",
+    "name"        : "oui_section_page",
     "description" : "Easily manipulate the Textpattern pages name",
     "version"     : "1.0.0",
     "type"        : 0,

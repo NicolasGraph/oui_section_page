@@ -1,7 +1,8 @@
 <?php
 
-Txp::get('\Textpattern\Tag\Registry')->register('oui_page');
-
+Txp::get('\Textpattern\Tag\Registry')
+    ->register('oui_section_page')
+    ->register('oui_if_section_page');
 /**
  * Gets a section's page.
  *
@@ -67,7 +68,7 @@ function oui_section_page($atts, $thing = null)
 
 // -------------------------------------------------------------
 
-function oui_if_page($atts, $thing)
+function oui_if_section_page($atts, $thing)
 {
     global $pretext;
     extract($pretext);

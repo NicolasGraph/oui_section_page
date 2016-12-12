@@ -1,4 +1,4 @@
-# oui_page
+# oui_section_page
 
 Easily manipulate Textpattern section page names.
 
@@ -10,11 +10,11 @@ oui_instagram’s minimum requirements:
 
 ## Tag
 
-### oui_page
+### oui_section_page
 
 Displays the page name in use for the current section or a defined section.
 
-bc. <txp:oui_page />
+bc. <txp:oui_section_page />
 
 #### Attribute
 
