@@ -4,7 +4,7 @@ Easily manipulate Textpattern section page names.
 
 ## Plugin requirements
 
-oui_instagram’s minimum requirements:
+oui_section_page’s minimum requirements:
 
 * [Textpattern](http://www.textpattern.com) 4.6+
 
@@ -14,14 +14,11 @@ oui_instagram’s minimum requirements:
 
 Displays the page name in use for the current section or a defined section.
 
-	<txp:oui_section_page />
+<txp:oui_section_page />
 
 #### Attribute
 
-*section*
-: The section name for which you want to display the page name.
-: *Default:* the current section
-: *Valid:* a section name
+* *section*: The section name for which you want to display the page name. Uses the current section name by default.
 
 ## Author
 
