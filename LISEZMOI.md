@@ -28,7 +28,7 @@ Le nom de la section consultée est utilisé par défaut.
 
 ## Auteur
 
-[Nicolas Morand]:https://twitter.com/NicolasGraph
+[Nicolas Morand](https://twitter.com/NicolasGraph)
 _Merci à la communauté et aux développeurs de Textpattern._
 
 ## Licence
