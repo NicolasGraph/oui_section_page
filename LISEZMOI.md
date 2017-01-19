@@ -17,18 +17,18 @@ Configuration minimum requise :
 
 ### oui_section_page
 
-Affiche le nom du gabarit utilisé pour la section consultée ou celle définie via l'attribut @section@.
+Affiche le nom du gabarit utilisé pour la section consultée ou celle définie via l'attribut `section`.
 
 `<txp:oui_section_page />`
 
 #### Attribut
 
-`section`: Nom de la section pour laquelle afficher le nom du gabarit utilisé.
+`section`: Nom de la section pour laquelle afficher le nom du gabarit utilisé.  
 Le nom de la section consultée est utilisé par défaut.
 
 ## Auteur
 
-[Nicolas Morand](https://twitter.com/NicolasGraph)
+[Nicolas Morand](https://twitter.com/NicolasGraph)  
 _Merci à la communauté et aux développeurs de Textpattern._
 
 ## Licence
