@@ -33,4 +33,4 @@ _Merci à la communauté et aux développeurs de Textpattern._
 
 ## Licence
 
-Ce plugin est distribué sous licence [GPLv2]:http://www.gnu.org/licenses/gpl-2.0.fr.html.
+Ce plugin est distribué sous licence [GPLv2](http://www.gnu.org/licenses/gpl-2.0.fr.html).
